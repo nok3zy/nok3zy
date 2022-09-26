@@ -1,7 +1,4 @@
 # nok3zy
-[![Tech Blog Badge](http://img.shields.io/badge/nok3zy.io-black?style=flat-square&logo=github&link=https://nok3zy.github.io/)](https://nok3zy.github.io/)
-
-[![anonymit8](http://mazassumnida.wtf/api/v2/generate_badge?boj=anonymit8)](https://solved.ac/anonymit8)
 
 ## ⚙Tech Stack
 
